@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning Project
+# Unsupervised Machine Learning Chapter
 
 ## Overview
 This project explores various Unsupervised Machine Learning techniques using the "Netflix Userbase Dataset" available on Kaggle. The focus is on applying different clustering methods to uncover insights that can be used for business decisions, particularly in the context of customer segmentation.
@@ -13,7 +13,7 @@ This project explores various Unsupervised Machine Learning techniques using the
   - Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
 - **Case Study**: Use the Netflix Userbase Dataset to apply these techniques and analyze the results from a business perspective.
 
-## Project Structure
+## Chapter Structure
 
 ### 1. **Data Preparation and Exploratory Data Analysis (EDA)**
    - **Data Loading**: Load the Netflix Userbase dataset from Kaggle.
